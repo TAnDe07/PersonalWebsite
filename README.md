@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# 1. To view website click this link: [TAnDe07.github.io](https://tande07.github.io/)
+
+# 2. To launch the website with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
