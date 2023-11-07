@@ -16,8 +16,8 @@ const Home = () => {
           Welcome
         </h2>
         <p className="text-gray-400 py-4 max-w-md" style={{color: '#808080', backgroundColor: '#E5EDF1'}}>
-       Hi there! My name is Tana Desir, and I am a third-year Computer Science student at the University of Florida. I am interested in software engineering, game development, and 
-        work related to Human-Centered Computing. Ultimately, I want to use computer science to address 
+       Hi there! My name is Tana Desir, and I am a third-year Computer Science student at the University of Florida. I am interested in Software Engineering, Game Development, and 
+        work related to Human-Centered Computing. Ultimately, I want to use Computer Science to address 
         real world societal problems. Feel free to connect with me on LinkedIn!
         <div></div>
         PS : I work on this website on my free time, so it's still being updated :)
