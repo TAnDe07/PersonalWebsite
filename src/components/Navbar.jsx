@@ -72,16 +72,16 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0E76A8]'>
             <a
               className='flex justify-between items-center w-full text-gray-400'
-              href='www.linkedin.com/in/tana-desir'
+              href='https://www.linkedin.com/in/tana-desir'
               target='_blank'
-            >
+              >
               Linkedin <FaLinkedin size={25} />
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
             <a
               className='flex justify-between items-center w-full text-gray-400'
-              href='github.com/TAnDe07'
+              href='https://github.com/TAnDe07'
               target='_blank'
             >
               Github <FaGithub size={25} />
@@ -90,7 +90,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#ED2224]'>
             <a
               className='flex justify-between items-center w-full text-gray-400'
-              href = "my-website\src\assets\Tana_Desir_Resume.pdf"
+              href = "my-website/src/assets/Tana_Desir_Resume.pdf"
               target='_blank'
             >
               Resume <GrDocumentPdf size={25} />
