@@ -90,7 +90,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#ED2224]'>
             <a
               className='flex justify-between items-center w-full text-white'
-              href="https://drive.google.com/file/d/1pkNtnhbQB49nncKUVel2sPSTj7Bjn51N/view?usp=sharing"
+              href="https://drive.google.com/file/d/1r2xoqNQmubcjPI02giEGvDxkMitn9RHS/view?usp=sharing"
               target='_blank'
             >
               Resume <GrDocumentPdf size={25} />
